@@ -1,0 +1,50 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCeMsqI6jU9WE2ctsrbxbywQ&psig=AOvVaw3-gswsR0FFE2qtdOe_6h0V&ust=1633543970844000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjepNbvs_MCFQAAAAAdAAAAABAD" tvg-name="Zee Bangla"  group-title="Indian",Zee Bangla
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSony_Pix&psig=AOvVaw3HO94NwOIZmgjFp5WnJs4B&ust=1633544196097000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj_77_ws_MCFQAAAAAdAAAAABAD" tvg-name="Sony PIX"  group-title="American",Sony PIX
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSony_Max&psig=AOvVaw1U4Y3sQc8nhOlkUmsxIjnv&ust=1633544287552000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiD7evws_MCFQAAAAAdAAAAABAD" tvg-name="Sony MAX"  group-title="Indian",Sony MAX
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fzeetv&psig=AOvVaw1jI1S0W8H8QBs28KZpHBIw&ust=1633544360990000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDrp5Dxs_MCFQAAAAAdAAAAABAD" tvg-name="Zee TV"  group-title="Indian",Zee TV
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Plus HD"  group-title="Indian",Star Plus HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Colors HD"  group-title="Indian",Colors HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="T Sports"  group-title="Sports",T Sports
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Sports Select 1"  group-title="Sports",Star Sports Select 1
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Zee Bangla Cinema"  group-title="Indian",Zee Bangla Cinema
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Ent."  group-title="Indian",Sony Ent.
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="StarMovies"  group-title="American",StarMovies
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Zee Cinema HD"  group-title="Indain",Zee Cinema HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NAT GEO"  group-title="American",NAT GEO
+http://tv2.ebox.live:8080/live/natg.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery Bangla"  group-title="American",Discovery Bangla
+http://tv2.ebox.live:8080/live/discovery.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Colors Infinity"  group-title="American",Colors Infinity
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Jalsha"  group-title="Indian",Star Jalsha
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=2749059&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIxIDk6MjE6NTEgQU0maGFzaF92YWx1ZT1QOXNVUDF2dis4Vkx4RlplNTY0N05RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
