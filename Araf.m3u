@@ -48,5 +48,5 @@ http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Jalsha"  group-title="Indian",Star Jalsha
 http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=2749059&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIxIDk6MjE6NTEgQU0maGFzaF92YWx1ZT1QOXNVUDF2dis4Vkx4RlplNTY0N05RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Stargold Select"  group-title="American",Stargold Select
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Stargold Select"  group-title="Indian",Stargold Select
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
